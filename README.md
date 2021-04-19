@@ -12,7 +12,7 @@ $ git clone https://github.com/arnar44/epiceros-demo-webpack.git
 Navigate to project directory
 
 ```bash
-$ cd epiceros_demo
+$ cd epiceros-demo-webpack
 ```
 
 Install packages using yarn or npm
